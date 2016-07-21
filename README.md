@@ -16,7 +16,9 @@ Next, run the following (be sure to replace the all caps keywords):
     docker build -t DOCKERHUB_USERNAME/SOLVER_NAME:SOLVER_VERSION .
     docker push DOCKERHUB_USERNAME/SOLVER_NAME:SOLVER_VERSION
 
-After submission, the script will be evaluated based on how close the sum of the two lists is. For this base example, the score would be:
+Finally, log into Mindi and submit the container URL under the number partitioning challenge.
+
+The script will be evaluated based on how close the sum of the two lists is. For this example, the score would be:
 
     |sum_A - sum_B| = |21 - 33| = 12
 
