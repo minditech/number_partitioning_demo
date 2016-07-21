@@ -1,6 +1,6 @@
 # Number partitioning example
 
-This example is made to help get started with both Docker, Mindi, and optimization.
+This example is made to help get started with [Docker](http://docker.com), [Mindi](http://mindi.io), and optimization (in particular [number partitioning](https://en.wikipedia.org/wiki/Partition_problem)).
 
 The included python script simply takes a list of numbers, splits it into two lists and prints them to screen with labels 'A' and 'B'.
 
